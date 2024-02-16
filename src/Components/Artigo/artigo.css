@@ -1,0 +1,31 @@
+.artigo{
+    width: 800px;
+    margin: 150px auto;
+}
+
+.artigo-info {
+    display: flex;
+    align-items: center;
+    color: var(--color-font-2);
+    
+}
+
+.artigo-info p{
+    margin-right: 5px;
+}
+
+.artigo h2 {
+    font-size: 48px;
+    color: var(--color-background-1);
+    margin: 20px 0;
+}
+
+.artigo-name{
+    color: var(--color-font-2);
+    margin: 20px 0;
+}
+
+.artigo-main img{
+    margin-top: 20px;
+    width: 100%;
+}
